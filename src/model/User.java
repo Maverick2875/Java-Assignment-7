@@ -8,7 +8,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Breeze
+ * @author AmanKhan
  */
 public class User {
  
