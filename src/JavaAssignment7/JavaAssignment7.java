@@ -6,9 +6,10 @@ package JavaAssignment7;
 
 /**
  *
- * @author Breeze
+ * @author AmanKhan
  */
-public class JavaAssignment7 {
+public class JavaAssignment7 
+{
 
     /**
      * @param args the command line arguments
